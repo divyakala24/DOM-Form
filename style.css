@@ -1,0 +1,83 @@
+.req::after{
+           
+    color: red;
+    content: " * ";
+         }
+         .req{
+             font-weight: bold;
+         }
+         .checked {
+   color: orange;
+
+
+         }
+
+         .row g-3{
+             margin-top: 10pxs;
+         }
+       
+             
+         
+
+         .design {
+            max-width: 650px;
+            margin: auto;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            background: white;
+            padding: 10px;
+            border: 1px solid gainsboro;
+            
+         }
+         #p1 {
+             color: gray;
+             font-size: 13px;
+         }
+        
+
+        .btn-light {
+    border: 1px solid gray;
+        }
+
+        .feed{
+            font-size: 13px;
+            margin-left: 20px;
+            color: gray;
+        }
+        .one {
+            font-size: 13px;
+        }
+        /* th+th, td+td{width:auto;text-align: center}
+th  {text-align:left; background: #ccc; text-transform:capitalize;width:15em}
+td,th {padding:10px;}
+tr:nth-child(2n) td{background: #eee}
+td label {height: 0; overflow: hidden; display: block}
+
+.one1{
+    font-size: 14px;;
+} */
+.table1{
+	margin-top: 50px;
+	text-align: center;
+	background: purple;
+	color: #fff;
+	margin-left: 340px;
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
+
+th{
+	border-right: 1px solid #fff;
+	padding: 11px;
+}
+
+#show{
+    background-color: white;
+    color: purple;
+}
